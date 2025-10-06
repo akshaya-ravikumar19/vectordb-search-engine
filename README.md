@@ -1,4 +1,4 @@
-# ESG Report Question-Answering using PDFs, FAISS & Transformers
+# Using FAISS as a Vector Database for Question Answering from PDFs
 
 This project enables **intelligent question-answering** on ESG (Environmental, Social, and Governance) or sustainability reports in **PDF format** using **semantic search** and **transformer-based NLP models**.  
 
@@ -6,11 +6,11 @@ It converts PDF text into **semantic embeddings**, stores them in a **FAISS vect
 
 ## Overview
 
-Traditional keyword searches (like Ctrl + F) are limited — they fail when users ask questions naturally such as:
+Traditional keyword searches are limited — they fail when users ask questions naturally such as:
 
 > “What sustainability initiatives did Amazon report in 2020?”
 
-This project leverages **semantic search** and **transformers** to understand the meaning of the question and find the most relevant sections across PDF reports.
+This project leverages **vector database**, **semantic search** and **transformers and embeddings** to understand the meaning of the question and find the most relevant sections across PDF reports.
 
 ## Concept
 
