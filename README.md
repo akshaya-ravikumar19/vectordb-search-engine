@@ -15,12 +15,12 @@ This project leverages **semantic search** and **transformers** to understand th
 
 ## Concept
 
-1. **PDF Extraction**:Text Mining - Extract text from ESG PDF reports
-2. **Chunking**:Text Preprocessing - Split long text into smaller overlapping segments
-3. **Embedding Generation**:Sentence Transformers - Convert text into numerical (semantic) vectors
-4. **Vector Indexing**:FAISS - Efficiently store and retrieve similar text embeddings
-5. **Semantic Search**:Similarity Search - Retrieve text chunks closest to the question vector
-6. **QA / Summarization**:NLP Transformers - Use pretrained models to extract or summarize answers
+1. **PDF Extraction**: Text Mining - Extract text from ESG PDF reports
+2. **Chunking**: Text Preprocessing - Split long text into smaller overlapping segments
+3. **Embedding Generation**: Sentence Transformers - Convert text into numerical (semantic) vectors
+4. **Vector Indexing**: FAISS - Efficiently store and retrieve similar text embeddings
+5. **Semantic Search**: Similarity Search - Retrieve text chunks closest to the question vector
+6. **QA / Summarization**: NLP Transformers - Use pretrained models to extract or summarize answers
 
 ## How the Code Works
 
